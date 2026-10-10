@@ -1,0 +1,6 @@
+{
+  "name": "Ninja Battle Royale: Shadow Legends",
+  "description": "Third-person battle royale game featuring tactical ninjas in Neo Dhaka with 21 weapons, tiger companion pets, and authentic lore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
